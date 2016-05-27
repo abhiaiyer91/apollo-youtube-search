@@ -6,7 +6,12 @@
   },
   "dependencies": {
     "apollo-client": "^0.3.9",
+    "bluebird": "^3.4.0",
+    "cls-bluebird": "^1.0.1",
+    "continuation-local-storage": "^3.1.7",
     "express": "^4.13.4",
+    "fbjs": "^0.8.3",
+    "graphql": "^0.6.0",
     "graphql-tools": "^0.4.1",
     "http-proxy-middleware": "^0.15.0",
     "meteor-node-stubs": "~0.2.0",
